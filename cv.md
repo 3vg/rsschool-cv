@@ -3,7 +3,6 @@
 
 **Contact:**
 **e-mail:** ev7139@gmail.com
-**telegram:** +380637470537
 
   I'm a newbie who is learning basics of web-development and looking for the opportunity to get my first posistion as a developer. Until recently, I dealt with e-commerce of pc and hardware. This is a test sample of my CV so don't be strict with me :)
 
